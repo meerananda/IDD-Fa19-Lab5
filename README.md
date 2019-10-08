@@ -9,16 +9,16 @@ For this week’s lab, we will be building a Jack in the box; this is a project 
 ## Putting it all together
 
 **Laser cut pieces**\
-
+![Laser Cut](/images/LaserCut.png)
 
 **Box**\
-
+![Box](/images/Box.png)
 
 **3D printed Servo mount**\
-
+![Servo Mount](/images/ServoMount.png)
 
 **Circuit**\
-
+![Circuit](/images/JackintheBoxCircuit.png)
 
 **3D printed character**\
 For the "Jack", I decided to print a flying saucer for my space-themed box. Here is a [link](/UFO.stl) to the .stl file.
@@ -27,5 +27,8 @@ For the "Jack", I decided to print a flying saucer for my space-themed box. Here
 
 
 **The Final Box**\
-![Jack in the Box](/images/JackintheBox1.png)
-![Jack in the Box](/images/JackintheBox1.png)
+![Jack in the Box 1](/images/JackintheBox1.png)
+![Jack in the Box 2](/images/JackintheBox2.png)
+
+[Jack in the Box Video]()
+[Jack in the Box Code](/code/JackintheBox.ino)
