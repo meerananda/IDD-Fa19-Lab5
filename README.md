@@ -8,9 +8,6 @@ For this week’s lab, we will be building a Jack in the box; this is a project 
 
 ## Putting it all together
 
-**Laser cut pieces**\
-![Laser Cut](/images/LaserCut.png)
-
 **Box**\
 ![Box](/images/Box.png)
 
