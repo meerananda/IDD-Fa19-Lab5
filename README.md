@@ -8,18 +8,20 @@ For this week’s lab, we will be building a Jack in the box; this is a project 
 
 ## Putting it all together
 
-I wanted to make the box UFO/space themed, so I've incorporated the laser 
-**Box**\
+I wanted to make the box UFO/space themed, so I've done the laser etching and 3D printed "Jack" into the theme. I've also incorporated some audio elements into the box.
+
+### Box 
 ![Box](/images/Box.png)
 
-**3D printed Servo mount**\
+### 3D printed Servo mount
 ![Servo Mount](/images/ServoMount.png)
 
-**Circuit**\
+### Circuit
 ![Circuit](/images/JackintheBoxCircuit.png)
 
-**3D printed character**\
-For the "Jack", I decided to print a flying saucer for my space-themed box. Here is a [link](/UFO.stl) to the .stl file.
+### 3D printed character
+For the "Jack", I decided to 3D print a flying saucer for my space-themed box. Here is a [link](/UFO.stl) to the .stl file.
+
 
 ![UFO](/images/UFO.png)
 
