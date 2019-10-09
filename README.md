@@ -26,9 +26,10 @@ For the "Jack", I decided to 3D print a flying saucer for my space-themed box. H
 ![UFO](/images/UFO.png)
 
 
-**The Final Box**\
+### The Final Box
+
 ![Jack in the Box 1](/images/JackintheBox1.png)
 ![Jack in the Box 2](/images/JackintheBox2.png)
 
-[Jack in the Box Video](https://youtu.be/AER3C5NKMu8)
+[Jack in the Box Video](https://youtu.be/AER3C5NKMu8)\
 [Jack in the Box Code](/code/JackintheBox.ino)
